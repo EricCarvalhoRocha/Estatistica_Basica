@@ -1,2 +1,2 @@
 # Estatistica_Basica
-## Este programa possui algumas funções estatística básicas.
+## Este programa serve mais como um glossário de funções estatísticas. 
